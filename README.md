@@ -41,7 +41,7 @@ So the system predicts:
 
 ---
 
-## ✅ Project Workflow & Your Solution
+## ✅ Project Workflow
 
 ### 1️⃣ Data Collection
 Dataset from **British Airways — Forage Virtual Experience**  
